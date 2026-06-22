@@ -1,0 +1,96 @@
+.peoples-dict,
+.peoples-dict * {
+  box-sizing: border-box;
+}
+.peoples-dict {
+  background: #f7f3ef;
+  height: 1250px;
+  position: relative;
+  overflow: hidden;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.promise-the-act-of-two-people-connecting-their-keys {
+  color: #121212;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 467px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.promise-the-act-of-two-people-connecting-their-keys-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 21px;
+  font-weight: 900;
+}
+.promise-the-act-of-two-people-connecting-their-keys-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+}
+.a-1-expression-used-to-imply-a-bad-situation-or-for-emphasis-2-short-for-a-n {
+  color: #121212;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 696px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a-1-expression-used-to-imply-a-bad-situation-or-for-emphasis-2-short-for-a-n-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 21px;
+  font-weight: 900;
+}
+.a-1-expression-used-to-imply-a-bad-situation-or-for-emphasis-2-short-for-a-n-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+}
+.layer-1 {
+  width: 317px;
+  height: 317px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 625px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.home-icon {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -127px);
+  top: calc(50% - 282px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.title-bg {
+  width: 145px;
+  height: 25px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 370px);
+  overflow: visible;
+  aspect-ratio: 145/25;
+}
