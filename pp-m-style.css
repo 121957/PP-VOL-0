@@ -34,7 +34,7 @@
   align-items: center;
   justify-content: center;
 }
-.store {
+.tmi {
   color: #121212;
   text-align: center;
   font-family: "NotoSansKr-Black", sans-serif;
@@ -44,7 +44,7 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 440px;
+  top: 376px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -59,7 +59,7 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 376px;
+  top: calc(50% - -115px);
   display: flex;
   align-items: center;
   justify-content: center;
