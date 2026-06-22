@@ -1,0 +1,207 @@
+.peoples-th,
+.peoples-th * {
+  box-sizing: border-box;
+}
+.peoples-th {
+  background: #f7f3ef;
+  height: 1250px;
+  position: relative;
+  overflow: hidden;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.there-is-a-voice-only-jane-can-hear {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 905px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.there-is-a-voice-only-jane-can-hear-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.there-is-a-voice-only-jane-can-hear-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.maya-exists {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 783px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.maya-exists-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.maya-exists-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.ian-and-maya-moved-to-s-s {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 661px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ian-and-maya-moved-to-s-s-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.ian-and-maya-moved-to-s-s-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.john-lives-alone-with-his-father {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 539px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.john-lives-alone-with-his-father-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.john-lives-alone-with-his-father-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.john-is-8-years-old-8 {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 417px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.john-is-8-years-old-8-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.john-is-8-years-old-8-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.n-icon {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -127px);
+  top: calc(50% - 282px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.home-icon {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -88px);
+  top: calc(50% - 282px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.th-info {
+  width: 161px;
+  height: 125px;
+  position: absolute;
+  left: calc(50% - 2px);
+  top: calc(50% - 443px);
+  aspect-ratio: 161/125;
+}
+.group {
+  height: auto;
+  position: absolute;
+  left: calc(50% - -30.74px);
+  top: calc(50% - 62.5px);
+  overflow: visible;
+}
+.group2 {
+  height: auto;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 32.73px);
+  overflow: visible;
+}
+.group3 {
+  height: auto;
+  position: absolute;
+  left: calc(50% - 69.81px);
+  top: calc(50% - -9.63px);
+  overflow: visible;
+}
+.s-stair {
+  width: 42.52px;
+  height: 99.63px;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: calc(50% - 418px);
+  overflow: visible;
+}
+.vol-0 {
+  width: 318px;
+  height: 76px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 555px);
+  overflow: visible;
+  aspect-ratio: 318/76;
+}
+.title-bg {
+  width: 145px;
+  height: 25px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 602px);
+  overflow: visible;
+  aspect-ratio: 145/25;
+}

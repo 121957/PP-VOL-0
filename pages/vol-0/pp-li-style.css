@@ -1,0 +1,214 @@
+.peoples-li,
+.peoples-li * {
+  box-sizing: border-box;
+}
+.peoples-li {
+  background: #f7f3ef;
+  height: 1250px;
+  position: relative;
+  overflow: hidden;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.vol-0 {
+  width: 318px;
+  height: 76px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 555px);
+  overflow: visible;
+  aspect-ratio: 318/76;
+}
+.title-bg {
+  width: 145px;
+  height: 25px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 602px);
+  overflow: visible;
+  aspect-ratio: 145/25;
+}
+.n-stair {
+  width: 42.52px;
+  height: 99.63px;
+  position: absolute;
+  left: calc(50% - -116px);
+  top: calc(50% - 418px);
+  overflow: visible;
+}
+.li-info {
+  width: 190px;
+  height: 125px;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: calc(50% - 443px);
+}
+.li-info2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  aspect-ratio: 190/125;
+}
+.ann-is-13-years-old-13 {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 417px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ann-is-13-years-old-13-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.ann-is-13-years-old-13-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.paul-and-jane-are-a-married-couple {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 539px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.paul-and-jane-are-a-married-couple-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.paul-and-jane-are-a-married-couple-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.paul-serves-as-le-portier-gatekeeper {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 661px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.paul-serves-as-le-portier-gatekeeper-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.paul-serves-as-le-portier-gatekeeper-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.jane-serves-for-the-dead {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 783px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.jane-serves-for-the-dead-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.jane-serves-for-the-dead-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.a-serves-for-us-alive {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 905px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.a-serves-for-us-alive-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.a-serves-for-us-alive-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.the-name-ki-pyung-means-baduk-pan-go-board {
+  color: #121212;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: 1027px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.the-name-ki-pyung-means-baduk-pan-go-board-span {
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-weight: 900;
+}
+.the-name-ki-pyung-means-baduk-pan-go-board-span2 {
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-weight: 500;
+}
+.home-icon {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -88px);
+  top: calc(50% - 282px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.s-icon {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - -127px);
+  top: calc(50% - 282px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
