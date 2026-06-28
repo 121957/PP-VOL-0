@@ -1,0 +1,361 @@
+.peoples-th,
+.peoples-th * {
+  box-sizing: border-box;
+}
+.peoples-th {
+  background: #f7f3ef;
+  height: 1485px;
+  position: relative;
+  overflow: hidden;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.n-icon {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: calc(50% - -103px);
+  top: calc(50% - 387.5px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.home-icon {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: calc(50% - -35px);
+  top: calc(50% - 387.5px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.th-info {
+  width: 161px;
+  height: 125px;
+  position: absolute;
+  left: calc(50% - 2px);
+  top: calc(50% - 560.5px);
+  aspect-ratio: 161/125;
+}
+.s-stair {
+  width: 42.52px;
+  height: 99.63px;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: calc(50% - 535.5px);
+  overflow: visible;
+}
+.title-bg {
+  width: 145px;
+  height: 25px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 719.5px);
+  overflow: visible;
+  aspect-ratio: 145/25;
+}
+.frame-1 {
+  width: 330px;
+  height: 5px;
+  position: absolute;
+  left: 42px;
+  top: 436px;
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 436px;
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 441px;
+}
+.note-01 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 226.5px);
+}
+.john-is-8-years-old-8 {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._01 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 72px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-02 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 56.5px);
+}
+.john-lives-alone-with-his-father {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-5 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._02 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-03 {
+  width: 330px;
+  height: 180px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -113.5px);
+}
+.ian-and-maya-moved-to-s-s {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 35px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-6 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 35px);
+}
+._03 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 62px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-04 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -293.5px);
+}
+.maya-exists {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-7 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._04 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-05 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -463.5px);
+}
+.there-is-a-voice-only-jane-can-hear {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-8 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._05 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.vol-0 {
+  width: 318px;
+  height: 76px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 667.5px);
+  overflow: visible;
+  aspect-ratio: 318/76;
+}

@@ -1,0 +1,391 @@
+.peoples-li,
+.peoples-li * {
+  box-sizing: border-box;
+}
+.peoples-li {
+  background: #f7f3ef;
+  height: 1765px;
+  position: relative;
+}
+.title-bg {
+  width: 145px;
+  height: 25px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 859.5px);
+  overflow: visible;
+  aspect-ratio: 145/25;
+}
+.vol-0 {
+  width: 318px;
+  height: 76px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 807.5px);
+  overflow: visible;
+  aspect-ratio: 318/76;
+}
+.n-stair {
+  width: 42.52px;
+  height: 99.63px;
+  position: absolute;
+  left: calc(50% - -116px);
+  top: calc(50% - 675.5px);
+  overflow: visible;
+}
+.li-info {
+  width: 190px;
+  height: 125px;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: calc(50% - 700.5px);
+}
+.home-icon {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: calc(50% - -35px);
+  top: calc(50% - 527.5px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.s-icon {
+  width: 56px;
+  height: 56px;
+  position: absolute;
+  left: calc(50% - -103px);
+  top: calc(50% - 527.5px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.note-06 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -493.5px);
+}
+.the-name-ki-pyung-means-baduk-pan-go-board {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-8 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._06 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 436px;
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 441px;
+}
+.note-01 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 366.5px);
+}
+.ann-is-13-years-old-13 {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._01 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 72px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-02 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 196.5px);
+}
+.paul-and-jane-are-a-married-couple {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-5 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._02 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-03 {
+  width: 330px;
+  height: 180px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 26.5px);
+}
+.paul-serves-as-le-portier-gatekeeper {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 35px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-6 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 35px);
+}
+._03 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 62px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-04 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -153.5px);
+}
+.jane-serves-for-the-dead {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.line-7 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+}
+._04 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.note-05 {
+  width: 330px;
+  height: 170px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -323.5px);
+}
+.a-serves-for-us-alive {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 21px;
+  font-weight: 500;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 40px);
+  width: 330px;
+  height: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._05 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 67px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
