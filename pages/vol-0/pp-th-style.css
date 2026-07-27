@@ -37,40 +37,25 @@
   overflow: visible;
   aspect-ratio: 1;
 }
-.th-info {
-  width: 161px;
-  height: 125px;
-  position: absolute;
-  left: calc(50% - 2px);
-  top: calc(50% - 560.5px);
-  aspect-ratio: 161/125;
-}
 .s-stair {
   width: 42.52px;
   height: 99.63px;
   position: absolute;
   left: calc(50% - 159px);
-  top: calc(50% - 535.5px);
+  top: calc(50% - 515.5px);
   overflow: visible;
 }
 .title-bg {
-  width: 145px;
-  height: 25px;
+  width: 116px;
+  height: 20px;
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: calc(50% - 719.5px);
+  top: calc(50% - 695.5px);
   overflow: visible;
-  aspect-ratio: 145/25;
+  aspect-ratio: 116/20;
 }
-.frame-1 {
-  width: 330px;
-  height: 5px;
-  position: absolute;
-  left: 42px;
-  top: 436px;
-}
-.ml-01 {
+.ml-2-01 {
   margin-top: -2px;
   border-style: solid;
   border-color: #000000;
@@ -80,9 +65,9 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 436px;
+  top: calc(50% - 306.5px);
 }
-.ml-02 {
+.ml-2-02 {
   margin-top: -2px;
   border-style: solid;
   border-color: #000000;
@@ -92,7 +77,7 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 441px;
+  top: calc(50% - 301.5px);
 }
 .note-01 {
   width: 330px;
@@ -306,7 +291,7 @@
   translate: -50%;
   top: calc(50% - -463.5px);
 }
-.Jane-can-communicate-with-the-dead {
+.there-is-a-voice-only-jane-can-hear {
   color: #121212;
   text-align: left;
   font-family: "NotoSansKr-Medium", sans-serif;
@@ -355,7 +340,50 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: calc(50% - 667.5px);
+  top: calc(50% - 633.5px);
   overflow: visible;
   aspect-ratio: 318/76;
+}
+.ml-03 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 255px;
+  height: 0px;
+  position: absolute;
+  left: calc(50% - 165px);
+  top: calc(50% - 535.5px);
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 655.5px);
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 650.5px);
+}
+.th-info {
+  width: 161px;
+  height: 125px;
+  position: absolute;
+  left: calc(50% - 2px);
+  top: calc(50% - 541px);
+  aspect-ratio: 161/125;
 }
