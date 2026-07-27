@@ -19,8 +19,26 @@
   translate: -50%;
   bottom: 40px;
 }
+.store-group {
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -146px);
+}
+.rectangle-3 {
+  background: #121212;
+  border-radius: 12px;
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
 .store {
-  color: #121212;
+  color: #f04f29;
   text-align: center;
   font-family: "NotoSansKr-Black", sans-serif;
   font-size: 20px;
@@ -28,29 +46,32 @@
   font-weight: 900;
   position: absolute;
   left: 50%;
-  translate: -50%;
-  bottom: 133px;
+  translate: -50% -50%;
+  top: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.tmi {
-  color: #121212;
-  text-align: center;
-  font-family: "NotoSansKr-Black", sans-serif;
-  font-size: 20px;
-  line-height: 21px;
-  font-weight: 900;
+.dict-group {
+  width: 326px;
+  height: 46px;
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: 374px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  top: calc(50% - -90px);
+}
+.rectangle-2 {
+  background: #121212;
+  border-radius: 12px;
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
 }
 .dictionary {
-  color: #121212;
+  color: #f04f29;
   text-align: center;
   font-family: "NotoSansKr-Black", sans-serif;
   font-size: 20px;
@@ -58,14 +79,32 @@
   font-weight: 900;
   position: absolute;
   left: 50%;
-  translate: -50%;
-  top: calc(50% - -113px);
+  translate: -50% -50%;
+  top: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.notes {
-  color: #121212;
+.tmi-group {
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 359px;
+}
+.rectangle-1 {
+  background: #121212;
+  border-radius: 12px;
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.tmi {
+  color: #f04f29;
   text-align: center;
   font-family: "NotoSansKr-Black", sans-serif;
   font-size: 20px;
@@ -73,8 +112,8 @@
   font-weight: 900;
   position: absolute;
   left: 50%;
-  translate: -50%;
-  top: 249px;
+  translate: -50% -50%;
+  top: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -84,7 +123,7 @@
   height: 99.63px;
   position: absolute;
   left: calc(50% - 159px);
-  top: calc(50% - 118px);
+  top: calc(50% - 98px);
   overflow: visible;
 }
 .vol-0 {
@@ -93,25 +132,87 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: calc(50% - 250px);
+  top: calc(50% - 216px);
   overflow: visible;
   aspect-ratio: 318/76;
-}
-.title-bg {
-  width: 145px;
-  height: 25px;
-  position: absolute;
-  left: 50%;
-  translate: -50%;
-  top: calc(50% - 302px);
-  overflow: visible;
-  aspect-ratio: 145/25;
 }
 .n-stair {
   width: 42.52px;
   height: 99.63px;
   position: absolute;
   left: calc(50% - -116px);
-  top: calc(50% - 118px);
+  top: calc(50% - 98px);
   overflow: visible;
+}
+.ml-03 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -18px);
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 118px);
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 113px);
+}
+.notes {
+  color: #121212;
+  text-align: center;
+  font-family: "Baskervville-BoldItalic", sans-serif;
+  font-size: 20px;
+  line-height: 21px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 27px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fldr-icon {
+  width: 50px;
+  height: 42px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 83px);
+  overflow: visible;
+  aspect-ratio: 50/42;
+}
+.title-bg {
+  width: 116px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 278px);
+  overflow: visible;
+  aspect-ratio: 116/20;
 }
