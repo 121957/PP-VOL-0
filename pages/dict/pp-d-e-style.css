@@ -85,13 +85,13 @@
   aspect-ratio: 33/34;
 }
 .title-bg {
-  width: 85px;
-  height: 15px;
+  width: 116px;
+  height: 20px;
   position: absolute;
-  left: calc(50% - -37px);
-  top: calc(50% - 270px);
+  left: calc(50% - -4px);
+  top: calc(50% - 279px);
   overflow: visible;
-  aspect-ratio: 85/15;
+  aspect-ratio: 116/20;
 }
 .ml-short-01 {
   margin-top: -2px;
