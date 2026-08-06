@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="HP_icon" data-name="HP icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.69 47.62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #131313;
+      }
+    </style>
+  </defs>
+  <path id="fldr-icon" class="cls-1" d="M52.16,7.94h-23.81c0-4.38-3.55-7.94-7.94-7.94H4.54C2.03,0,0,2.03,0,4.54v38.55c0,2.5,2.03,4.54,4.54,4.54h47.62c2.5,0,4.54-2.03,4.54-4.54V12.47c0-2.5-2.03-4.54-4.54-4.54ZM51.59,18.61H5.1v-4.54h46.49v4.54Z"/>
+</svg>
