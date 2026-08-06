@@ -1,0 +1,163 @@
+.tmi-p-01,
+.tmi-p-01 * {
+  box-sizing: border-box;
+}
+.tmi-p-01 {
+  background: #f7f3ef;
+  height: 1250px;
+  position: relative;
+  overflow: hidden;
+}
+.arw-r {
+  width: 16px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 499px);
+  overflow: visible;
+  aspect-ratio: 16/20;
+}
+._01 {
+  color: #121212;
+  text-align: center;
+  font-family: "Baskerville-SemiBoldItalic", serif;
+  font-size: 20px;
+  line-height: 35px;
+  font-weight: 600;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ml-title {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #121212;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 6px);
+}
+._01-cheonjaejibyun-070926-1 {
+  width: 330px;
+  height: 347px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 440px);
+  object-fit: cover;
+  aspect-ratio: 330/347;
+}
+.cheonjaejibyun {
+  color: #121212;
+  text-align: center;
+  font-family: "Baskerville-SemiBoldItalic", serif;
+  font-size: 31px;
+  line-height: 35px;
+  font-weight: 600;
+  font-style: italic;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 573px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tmi-p-01-text {
+  color: #121212;
+  text-align: justify;
+  font-family: "NotoSansKr-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 752px;
+  width: 330px;
+  height: 380px;
+}
+.tmi-p-01-text-title {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -21px);
+  width: 330px;
+  height: 28px;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.home-emoji-icon {
+  width: 33px;
+  height: 34px;
+  position: absolute;
+  left: calc(50% - -132px);
+  top: calc(50% - 585px);
+  overflow: visible;
+  aspect-ratio: 33/34;
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 538px);
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 533px);
+}
+.title-bg {
+  width: 116px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 578px);
+  overflow: visible;
+  aspect-ratio: 116/20;
+}
+.list-icon {
+  width: 30px;
+  height: 26px;
+  position: absolute;
+  left: calc(50% - 165px);
+  top: calc(50% - 581px);
+  overflow: visible;
+  aspect-ratio: 30/26;
+}

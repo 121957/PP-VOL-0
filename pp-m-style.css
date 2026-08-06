@@ -1,0 +1,218 @@
+.peoples-main,
+.peoples-main * {
+  box-sizing: border-box;
+}
+.peoples-main {
+  background: #f04f29;
+  height: 650px;
+  position: relative;
+  overflow: hidden;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.store-group {
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -146px);
+}
+.rectangle-3 {
+  background: #121212;
+  border-radius: 12px;
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.store {
+  color: #f04f29;
+  text-align: center;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 21px;
+  font-weight: 900;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dict-group {
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -90px);
+}
+.rectangle-2 {
+  background: #121212;
+  border-radius: 12px;
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.dictionary {
+  color: #f04f29;
+  text-align: center;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 21px;
+  font-weight: 900;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tmi-group {
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 359px;
+}
+.rectangle-1 {
+  background: #121212;
+  border-radius: 12px;
+  width: 326px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.tmi {
+  color: #f04f29;
+  text-align: center;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 20px;
+  line-height: 21px;
+  font-weight: 900;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.s-stair {
+  width: 42.52px;
+  height: 99.63px;
+  position: absolute;
+  left: calc(50% - 159px);
+  top: calc(50% - 98px);
+  overflow: visible;
+}
+.vol-0 {
+  width: 318px;
+  height: 76px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 216px);
+  overflow: visible;
+  aspect-ratio: 318/76;
+}
+.n-stair {
+  width: 42.52px;
+  height: 99.63px;
+  position: absolute;
+  left: calc(50% - -116px);
+  top: calc(50% - 98px);
+  overflow: visible;
+}
+.ml-03 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -18px);
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 118px);
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 113px);
+}
+.notes {
+  color: #121212;
+  text-align: center;
+  font-family: "Baskerville-BoldItalic", serif;
+  font-size: 20px;
+  line-height: 21px;
+  font-weight: 700;
+  font-style: italic;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 27px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fldr-icon {
+  width: 50px;
+  height: 42px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 83px);
+  overflow: visible;
+  aspect-ratio: 50/42;
+}
+.title-bg {
+  width: 116px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 278px);
+  overflow: visible;
+  aspect-ratio: 116/20;
+}
