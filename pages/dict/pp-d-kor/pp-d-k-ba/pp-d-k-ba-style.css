@@ -1,0 +1,296 @@
+.peoples-dict-kor-ba,
+.peoples-dict-kor-ba * {
+  box-sizing: border-box;
+}
+.peoples-dict-kor-ba {
+  background: #f7f3ef;
+  height: 1250px;
+  position: relative;
+  overflow: hidden;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: "NotoSansKr-Bold", sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.dict-icon {
+  width: 330px;
+  height: 330px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.eng-icon {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: calc(50% - 126px);
+  top: calc(50% - 285px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.kor-icon {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: calc(50% - 165px);
+  top: calc(50% - 285px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.title-bg {
+  width: 116px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -4px);
+  top: calc(50% - 279px);
+  overflow: visible;
+  aspect-ratio: 116/20;
+}
+.home-emoji-icon {
+  width: 33px;
+  height: 34px;
+  position: absolute;
+  left: calc(50% - -132px);
+  top: calc(50% - 286px);
+  overflow: visible;
+  aspect-ratio: 33/34;
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 239px);
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 170px);
+}
+.k-a {
+  width: 306px;
+  height: 20px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 215px);
+  overflow: hidden;
+  aspect-ratio: 306/20;
+}
+.ga {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 153px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.na {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 131px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.da {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 109px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ra {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 87px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ma {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 65px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ba {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 43px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.sa {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 21px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.aa {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -1px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ja {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -23px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.cha {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -45px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ka {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -67px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ta {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -89px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.pa {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -111px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ha {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -133px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.beolle {
+  width: 330px;
+  height: 210px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 170px);
+}
+.mask {
+  width: 330px;
+  height: 210px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.beolle-info {
+  position: absolute;
+  inset: 0;
+}
+.beolle-mean {
+  color: #121212;
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 64px);
+  width: 330px;
+}
+.beolle-mean-span {
+  font-family: "Noto Serif KR", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 31px;
+  line-height: 25px;
+}
+.beolle-mean-span2 {
+  font-family: "NotoSansKr-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.line {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 24px);
+}
