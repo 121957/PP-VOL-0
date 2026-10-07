@@ -1,0 +1,354 @@
+.peoples-DICT-ENG-a,
+.peoples-DICT-ENG-a * {
+  box-sizing: border-box;
+}
+.peoples-DICT-ENG-a {
+  background: #f7f3ef;
+  height: 1250px;
+  position: relative;
+  overflow: hidden;
+}
+._2026-peoples-all-rights-reserved {
+  color: #000000;
+  text-align: center;
+  font-family: 'NotoSansKr-Bold', sans-serif;
+  font-size: 9px;
+  font-weight: 700;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 40px;
+}
+.dict-icon {
+  width: 330px;
+  height: 330px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 0px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.eng-icon {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: calc(50% - 126px);
+  top: calc(50% - 285px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.kor-icon {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: calc(50% - 165px);
+  top: calc(50% - 285px);
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.title-bg {
+  width: 116px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -4px);
+  top: calc(50% - 279px);
+  overflow: visible;
+  aspect-ratio: 116/20;
+}
+.home-emoji-icon {
+  width: 33px;
+  height: 34px;
+  position: absolute;
+  left: calc(50% - -132px);
+  top: calc(50% - 286px);
+  overflow: visible;
+  aspect-ratio: 33/34;
+}
+.ml-01 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 239px);
+}
+.ml-02 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 170px);
+}
+.line {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 24px);
+}
+.a-alphabet {
+  width: 330px;
+  height: 210px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 170px);
+}
+.aa-info {
+  position: absolute;
+  inset: 0;
+}
+.aa-mean {
+  color: #121212;
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  width: 330px;
+}
+.aa-mean-span {
+  font-family: "Cardo", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 35px;
+  line-height: 21px;
+}
+.aa-mean-span2 {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+.e-a {
+  width: 305.96px;
+  height: 46px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 228px);
+}
+.z {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -132.98px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.y {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -110.98px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.x {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -88.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.w {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -66.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.v {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -44.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.u {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -22.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.t {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.s {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 21px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.r {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 42.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.q {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 64.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.p {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 86.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.o {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 108.99px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.n {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 130.98px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.m {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 152.98px);
+  top: calc(50% - -3px);
+  overflow: visible;
+}
+.l {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -110.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.k {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -88.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.j {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -66.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.i {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -44.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.h {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -23px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.g {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -1px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.f {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 20.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.e {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 42.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.d {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 64.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.c {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 86.99px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.b {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 108.98px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
+.a {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - 130.98px);
+  top: calc(50% - 23px);
+  overflow: visible;
+}
