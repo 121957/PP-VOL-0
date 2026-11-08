@@ -92,6 +92,18 @@
   translate: -50%;
   top: calc(50% - -148px);
 }
+.ml-dash-07 {
+  margin-top: -1px;
+  border-style: dashed;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -198px);
+}
 ._2026-peoples-all-rights-reserved {
   color: #000000;
   text-align: center;
@@ -424,6 +436,65 @@
   justify-content: flex-end;
 }
 ._06 {
+  color: #121212;
+  text-align: left;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: calc(50% - 165px);
+  top: 50%;
+  translate: 0 -50%;
+  width: 30px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.no-ttl-dt-07 {
+  width: 330px;
+  height: 28px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -159px);
+}
+._110726 {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Medium", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: calc(50% - -115px);
+  top: 50%;
+  translate: 0 -50%;
+  width: 50px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.borzois-birdies {
+  color: #121212;
+  text-align: right;
+  font-family: "NotoSansKr-Black", sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 900;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  width: 195px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+._07 {
   color: #121212;
   text-align: left;
   font-family: "NotoSansKr-Black", sans-serif;
