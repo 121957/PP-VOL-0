@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="HP_icon" data-name="HP icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56.69 56.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #131313;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M45.35,0H11.34C5.08,0,0,5.08,0,11.34v34.02C0,51.62,5.08,56.69,11.34,56.69h34.02c6.26,0,11.34-5.08,11.34-11.34V11.34C56.69,5.08,51.62,0,45.35,0ZM43.35,41.17h-7.95v-19.3H13.35v-6.35h30v25.65Z"/>
+</svg>
