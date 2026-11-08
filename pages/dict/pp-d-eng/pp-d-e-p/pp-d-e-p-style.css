@@ -95,7 +95,7 @@
   position: absolute;
   left: 50%;
   translate: -50%;
-  top: calc(50% - 170px);
+  top: calc(50% - -40px);
 }
 .mask {
   width: 330px;
@@ -132,7 +132,54 @@
   font-size: 18px;
   line-height: 21px;
 }
-.line {
+.line-promise {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px 0 0 0;
+  width: 330px;
+  height: 0px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 24px);
+}
+.pienipieni {
+  width: 330px;
+  height: 210px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 170px);
+}
+.pienipieni-info {
+  position: absolute;
+  inset: 0;
+}
+.pienipieni-mean {
+  color: #121212;
+  text-align: left;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 64px);
+  width: 330px;
+}
+.pienipieni-mean-span {
+  font-family: "Cardo", serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 35px;
+  line-height: 21px;
+}
+.pienipieni-mean-span2 {
+  font-family: "Ubuntu Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 21px;
+}
+.line-pienipieni {
   margin-top: -2px;
   border-style: solid;
   border-color: #000000;
