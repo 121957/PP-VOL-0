@@ -50,6 +50,15 @@
   overflow: visible;
   aspect-ratio: 16/20;
 }
+.arw-r {
+  width: 16px;
+  height: 20px;
+  position: absolute;
+  left: calc(50% - -139px);
+  top: calc(50% - 499px);
+  overflow: visible;
+  aspect-ratio: 16/20;
+}
 ._06 {
   color: #121212;
   text-align: center;
